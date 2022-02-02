@@ -1,0 +1,137 @@
+﻿Total_Annual_Rides
+------------------
+5595063
+
+(1 row affected)
+
+Membership_Group     Total_Trips
+-------------------- -----------
+member               3066058
+casual               2529005
+
+(2 rows affected)
+
+Membership_Group     Avg_Duration_Mins
+-------------------- -----------------
+casual               32
+member               13
+
+(2 rows affected)
+
+Membership_Group     Longest_Trip_in_Hrs
+-------------------- -------------------
+casual               932
+member               26
+
+(2 rows affected)
+
+Longest_Trips_by_tripID Membership_Group     Days_Borrowed
+----------------------- -------------------- -------------
+7F0578ABF030FC83        casual               39
+F043F0F6A1AA4F85        casual               38
+BDA1217EC8532C7B        casual               37
+E6E1E5BFFD72ECEC        casual               37
+99415B003B7E7EEE        casual               34
+8016DC50082D9E93        casual               33
+E84DF812305C9C9F        casual               33
+89F33397EABB55E7        casual               29
+E25E58F5E94EE351        casual               29
+A310C7270FD730B6        casual               29
+E7FC85C69101AF97        casual               28
+C4D95269E133379D        casual               28
+D4E35EE211346690        casual               28
+66F0486D4849C1B9        casual               28
+FA8123589CCE9B57        casual               27
+574CD1B5DB1E6796        casual               27
+B9D638B2DC96A4F6        casual               27
+25DB8F5644D47B3F        casual               27
+94E199ACBBC27DD7        casual               27
+A0DDEE247A281FD6        casual               26
+E7C8BDEB5DECC586        casual               25
+14DF57F4E47D031D        casual               25
+C8DD5E89BE2DAD7B        casual               25
+F08E02F53023C650        casual               24
+ED812A5D5795D403        casual               24
+6E3674858A48E7EB        casual               24
+26765E73FFA6E9D9        casual               24
+6050A356E597191B        casual               23
+60A5341F2DE39ACD        casual               23
+BBDA8AFFE3BB3F61        casual               23
+DEAF30217E6D14F2        casual               22
+F739D6A2DFC2A731        casual               22
+97E3EC2B52956FDA        casual               22
+7E467C4CB9B85042        casual               22
+271D9E93A68C9A17        casual               22
+8ECF742AF6D09DA1        casual               22
+50248CAA56D6D02A        casual               22
+689016313584F621        casual               22
+CAF3F71AEDB7F691        casual               21
+43F06D4F12308FAD        casual               21
+2A8A8CC13E2C020E        casual               21
+6863C8FD443EB8D8        casual               21
+BE99ADF25B0AB20C        casual               21
+CAC62615A5E861AA        casual               21
+7397B77660420A1D        casual               21
+2269B3E26E74F4A8        casual               21
+B7A628D0B2A910C4        casual               21
+AA5CFE14D1864FAB        casual               21
+895DDC9CDF46F5A9        casual               20
+285C063F3946AF32        casual               20
+
+(50 rows affected)
+
+Shortest_Trips_by_TripID Membership_Group     Minutes_Borrowed
+------------------------ -------------------- ----------------
+7CA158F5F050156E         casual               58
+FD8AF7324ABAE9DA         casual               56
+508B09A5FB0737DC         member               54
+6F9E76F5EDAAC1B8         member               54
+CDB307B8494885AD         casual               53
+7AECC76D1562B51C         casual               53
+B506DCD44974C575         casual               53
+7E24361D78747AF6         member               52
+6A2DCA5CB1596CA6         casual               51
+FFD5A2DDE1FAAA90         member               51
+53222CFE6657D53D         casual               51
+46BC473D0F68B4A2         casual               50
+9D8C6B064E2ECEDE         casual               50
+5AA2BC364BC7A569         casual               50
+83B6C6B10248241E         member               49
+D6D3692804119896         member               49
+2B22D0C575CC2DF8         member               48
+3556173EA13B5C84         casual               48
+D631251FA9C7FC03         member               47
+82ACDD5EE3627B6C         member               47
+08F7F73C0EC09A0B         member               47
+46D20A622D89BDCE         member               47
+E17513A83D75F889         casual               47
+49DF29FDEC7E48FB         casual               47
+984A42435A4BBEB0         casual               46
+5132D82DCD66BA95         member               44
+9BEB5FBD0EF2FCFD         member               44
+0C29F2FD22BFE9C3         casual               42
+36BCBD47831CECD3         casual               42
+83778DB379E8B04B         member               42
+E16920EC561FFEBD         casual               41
+36198116E86D6457         member               41
+021DC77C70A3E367         casual               40
+EDBA8663286116BE         casual               40
+B60E253706E151AF         casual               39
+658F94C7AE8F182C         member               39
+CF4D877FEB218570         member               37
+1E08692D5C77F7AA         casual               36
+287605D0D79731E6         casual               36
+B029250A1EFF2975         casual               35
+802BFC5FF150F1F8         casual               33
+F2AF011E90AC8918         casual               31
+E394AA8418D47B74         casual               30
+F4E4485BFB33D916         casual               30
+E89DD4EBFBD231E3         casual               29
+0006AA1377F8BCA1         casual               29
+600852E2195647B8         member               28
+8598DCE30427F984         casual               28
+1374B0438900E9E9         member               27
+214464733718183D         casual               24
+
+(50 rows affected)
+
