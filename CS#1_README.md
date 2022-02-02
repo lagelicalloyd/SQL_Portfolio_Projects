@@ -1,3 +1,7 @@
+**Skills used:
+Data Aggregation, Data Analytics, Data Calculations, Data Cleaning, Data Ethics,
+Spreadsheets, SQL, Structured Thinking, Microsoft SQL Server Management Studio (SSMS)****
+
 # Data Exploration in SQL Server - CASE STUDY 1 - Cyclistic, a bike-share company 
 **Business Task**
 Develop compelling data insights about the past 12 months of bike-share trips
